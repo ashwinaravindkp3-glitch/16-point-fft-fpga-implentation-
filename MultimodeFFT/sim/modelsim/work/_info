@@ -1,0 +1,493 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/MultimodeFFT/sim/modelsim
+vbutterfly_radix2
+Z1 !s110 1763583221
+!i10b 1
+!s100 :Fl;J3m[;]`HCj9:b?B5>3
+IIMDMAc`_e4e=`[Lhh>A5d1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1763575837
+8e:/MultimodeFFT/rtl/radix2/butterfly_radix2.v
+Fe:/MultimodeFFT/rtl/radix2/butterfly_radix2.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1763583221.000000
+!s107 e:/MultimodeFFT/rtl/radix2/butterfly_radix2.v|
+!s90 -reportprogress|300|-work|work|e:/MultimodeFFT/rtl/radix2/butterfly_radix2.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vbutterfly_radix2_2
+Z7 !s110 1763583222
+!i10b 1
+!s100 g8[eh^BI]2a4KXD]2E1QE1
+IGZ8M_=J5j6Xj^`;HgmSKf0
+R2
+R0
+w1763582843
+8e:/MultimodeFFT/rtl/radix2_2/butterfly_radix2_2.v
+Fe:/MultimodeFFT/rtl/radix2_2/butterfly_radix2_2.v
+L0 7
+R3
+r1
+!s85 0
+31
+Z8 !s108 1763583222.000000
+!s107 e:/MultimodeFFT/rtl/radix2_2/butterfly_radix2_2.v|
+!s90 -reportprogress|300|-work|work|e:/MultimodeFFT/rtl/radix2_2/butterfly_radix2_2.v|
+!i113 1
+R5
+R6
+vbutterfly_radix4
+R7
+!i10b 1
+!s100 4?5]KX9mJ<nO8F=:MnU]h0
+IcY353GNo8@n42XSR^Kz7J2
+R2
+R0
+Z9 w1763582373
+8e:/MultimodeFFT/rtl/radix4/butterfly_radix4.v
+Fe:/MultimodeFFT/rtl/radix4/butterfly_radix4.v
+L0 3
+R3
+r1
+!s85 0
+31
+R8
+!s107 e:/MultimodeFFT/rtl/radix4/butterfly_radix4.v|
+!s90 -reportprogress|300|-work|work|e:/MultimodeFFT/rtl/radix4/butterfly_radix4.v|
+!i113 1
+R5
+R6
+vcomplex_adder
+R1
+!i10b 1
+!s100 e@]bC>e[^D28]1SF9Y6582
+I2gT3zz`@:kToVM`2Y=XDN3
+R2
+R0
+w1763575851
+8e:/MultimodeFFT/rtl/common/complex_adder.v
+Fe:/MultimodeFFT/rtl/common/complex_adder.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 e:/MultimodeFFT/rtl/common/complex_adder.v|
+!s90 -reportprogress|300|-work|work|e:/MultimodeFFT/rtl/common/complex_adder.v|
+!i113 1
+R5
+R6
+vcomplex_multiplier
+R1
+!i10b 1
+!s100 ]008DH:=:Cfid;Yh:EnI01
+IdWT`GXS[ZR2WLFi`j8KbN0
+R2
+R0
+w1763575848
+8e:/MultimodeFFT/rtl/common/complex_multiplier.v
+Fe:/MultimodeFFT/rtl/common/complex_multiplier.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 e:/MultimodeFFT/rtl/common/complex_multiplier.v|
+!s90 -reportprogress|300|-work|work|e:/MultimodeFFT/rtl/common/complex_multiplier.v|
+!i113 1
+R5
+R6
+vcomplex_subtractor
+R1
+!i10b 1
+!s100 VXWg9R>oI@mM`NnGD;HRY1
+IlVL^Ef3lQe>=zKb]MoWH93
+R2
+R0
+w1763575845
+8e:/MultimodeFFT/rtl/common/complex_subtractor.v
+Fe:/MultimodeFFT/rtl/common/complex_subtractor.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 e:/MultimodeFFT/rtl/common/complex_subtractor.v|
+!s90 -reportprogress|300|-work|work|e:/MultimodeFFT/rtl/common/complex_subtractor.v|
+!i113 1
+R5
+R6
+vcontrol_radix2
+R7
+!i10b 1
+!s100 @:5`U0^?V_a[4V98kE7Fg2
+INKf3hWb`0kGAK26ZDnFb40
+R2
+R0
+w1763575830
+8e:/MultimodeFFT/rtl/radix2/control_radix2.v
+Fe:/MultimodeFFT/rtl/radix2/control_radix2.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 e:/MultimodeFFT/rtl/radix2/control_radix2.v|
+!s90 -reportprogress|300|-work|work|e:/MultimodeFFT/rtl/radix2/control_radix2.v|
+!i113 1
+R5
+R6
+vcontrol_radix2_2
+R7
+!i10b 1
+!s100 =fV8=@KIXz3oN;E<H_5C51
+I:@zHBXCPfQhaGI3bAaTV71
+R2
+R0
+w1763582885
+8e:/MultimodeFFT/rtl/radix2_2/control_radix2_2.v
+Fe:/MultimodeFFT/rtl/radix2_2/control_radix2_2.v
+L0 3
+R3
+r1
+!s85 0
+31
+R8
+!s107 e:/MultimodeFFT/rtl/radix2_2/control_radix2_2.v|
+!s90 -reportprogress|300|-work|work|e:/MultimodeFFT/rtl/radix2_2/control_radix2_2.v|
+!i113 1
+R5
+R6
+vcontrol_radix4
+R7
+!i10b 1
+!s100 LE7lJ04cfP2<69m=AILb:0
+I8LYECiF50M682H03bDD2J0
+R2
+R0
+Z10 w1763580555
+8e:/MultimodeFFT/rtl/radix4/control_radix4.v
+Fe:/MultimodeFFT/rtl/radix4/control_radix4.v
+L0 3
+R3
+r1
+!s85 0
+31
+R8
+!s107 e:/MultimodeFFT/rtl/radix4/control_radix4.v|
+!s90 -reportprogress|300|-work|work|e:/MultimodeFFT/rtl/radix4/control_radix4.v|
+!i113 1
+R5
+R6
+vfft_radix2_2_top
+R7
+!i10b 1
+!s100 W4JM>?mH?@zaXc:X1HI[<2
+II4=3i3QA]1@IHDJ]O5zJ61
+R2
+R0
+w1763583171
+8e:/MultimodeFFT/rtl/radix2_2/fft_radix2_2_top.v
+Fe:/MultimodeFFT/rtl/radix2_2/fft_radix2_2_top.v
+L0 3
+R3
+r1
+!s85 0
+31
+R8
+!s107 e:/MultimodeFFT/rtl/radix2_2/fft_radix2_2_top.v|
+!s90 -reportprogress|300|-work|work|e:/MultimodeFFT/rtl/radix2_2/fft_radix2_2_top.v|
+!i113 1
+R5
+R6
+vfft_radix2_top
+R7
+!i10b 1
+!s100 83]k_m96@]JfaA<Mjf6:l1
+IM_3HNAjfZ@iAA7fFO^hd@3
+R2
+R0
+w1763579014
+8e:/MultimodeFFT/rtl/radix2/fft_radix2_top.v
+Fe:/MultimodeFFT/rtl/radix2/fft_radix2_top.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 e:/MultimodeFFT/rtl/radix2/fft_radix2_top.v|
+!s90 -reportprogress|300|-work|work|e:/MultimodeFFT/rtl/radix2/fft_radix2_top.v|
+!i113 1
+R5
+R6
+vfft_radix4_top
+R7
+!i10b 1
+!s100 ;nJZ5lQD8mFG@o=aTC1_M2
+ITPXePmkV;g0L[U7YVbV;b3
+R2
+R0
+R9
+8e:/MultimodeFFT/rtl/radix4/fft_radix4_top.v
+Fe:/MultimodeFFT/rtl/radix4/fft_radix4_top.v
+L0 3
+R3
+r1
+!s85 0
+31
+R8
+!s107 e:/MultimodeFFT/rtl/radix4/fft_radix4_top.v|
+!s90 -reportprogress|300|-work|work|e:/MultimodeFFT/rtl/radix4/fft_radix4_top.v|
+!i113 1
+R5
+R6
+vregister_bank
+R1
+!i10b 1
+!s100 `iah<?z[NciaTAK@eCZQ@1
+IOAEYK2e0e0dlH^6H]<PPd0
+R2
+R0
+w1763575841
+8e:/MultimodeFFT/rtl/common/register_bank.v
+Fe:/MultimodeFFT/rtl/common/register_bank.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 e:/MultimodeFFT/rtl/common/register_bank.v|
+!s90 -reportprogress|300|-work|work|e:/MultimodeFFT/rtl/common/register_bank.v|
+!i113 1
+R5
+R6
+vtb_adder_simple
+R7
+!i10b 1
+!s100 9o5<`DST>EkfmmdG`eVK61
+IMn3=1FiG4ebD]W5HU8]EF0
+R2
+R0
+w1763573444
+8e:/MultimodeFFT/tb/unit_tests/tb_adder_simple.v
+Fe:/MultimodeFFT/tb/unit_tests/tb_adder_simple.v
+L0 4
+R3
+r1
+!s85 0
+31
+R8
+!s107 e:/MultimodeFFT/tb/unit_tests/tb_adder_simple.v|
+!s90 -reportprogress|300|-work|work|e:/MultimodeFFT/tb/unit_tests/tb_adder_simple.v|
+!i113 1
+R5
+R6
+vtb_butterfly_comprehensive
+R7
+!i10b 1
+!s100 ]c?a7ebOnoYO5[8U=f0VM1
+IVQ9gm`Iom]GZJ487`IiSX3
+R2
+R0
+w1763574514
+8e:/MultimodeFFT/tb/unit_tests/tb_butterfly_comprehensive.v
+Fe:/MultimodeFFT/tb/unit_tests/tb_butterfly_comprehensive.v
+L0 9
+R3
+r1
+!s85 0
+31
+R8
+!s107 e:/MultimodeFFT/tb/unit_tests/tb_butterfly_comprehensive.v|
+!s90 -reportprogress|300|-work|work|e:/MultimodeFFT/tb/unit_tests/tb_butterfly_comprehensive.v|
+!i113 1
+R5
+R6
+vtb_butterfly_radix2
+R7
+!i10b 1
+!s100 @m`@VBcS1WSelNXdUjSkQ1
+IcK9jdZYDePJP_nWU8Nnzz0
+R2
+R0
+w1763573331
+8e:/MultimodeFFT/tb/unit_tests/tb_butterfly_radix2.v
+Fe:/MultimodeFFT/tb/unit_tests/tb_butterfly_radix2.v
+L0 8
+R3
+r1
+!s85 0
+31
+R8
+!s107 e:/MultimodeFFT/tb/unit_tests/tb_butterfly_radix2.v|
+!s90 -reportprogress|300|-work|work|e:/MultimodeFFT/tb/unit_tests/tb_butterfly_radix2.v|
+!i113 1
+R5
+R6
+vtb_fft_dc_signal
+R7
+!i10b 1
+!s100 h4;Gh=k=`[_4NO=M=42iL0
+I:mlSb2XnPMMEgimVE9``92
+R2
+R0
+w1763579488
+8e:/MultimodeFFT/tb/integration_tests/tb_fft_dc_signal.v
+Fe:/MultimodeFFT/tb/integration_tests/tb_fft_dc_signal.v
+L0 3
+R3
+r1
+!s85 0
+31
+R8
+!s107 e:/MultimodeFFT/tb/integration_tests/tb_fft_dc_signal.v|
+!s90 -reportprogress|300|-work|work|e:/MultimodeFFT/tb/integration_tests/tb_fft_dc_signal.v|
+!i113 1
+R5
+R6
+vtb_fft_radix2_2_top
+R7
+!i10b 1
+!s100 Sz6<:l<QcoGV^7<e_o00z3
+IRDB@e1kaJM^X6YdeTXFbY2
+R2
+R0
+w1763582888
+8e:/MultimodeFFT/tb/radix2_2/tb_fft_radix2_2_top.v
+Fe:/MultimodeFFT/tb/radix2_2/tb_fft_radix2_2_top.v
+L0 3
+R3
+r1
+!s85 0
+31
+R8
+!s107 e:/MultimodeFFT/tb/radix2_2/tb_fft_radix2_2_top.v|
+!s90 -reportprogress|300|-work|work|e:/MultimodeFFT/tb/radix2_2/tb_fft_radix2_2_top.v|
+!i113 1
+R5
+R6
+vtb_fft_radix2_top
+R7
+!i10b 1
+!s100 T8MdkU5o7Z9N=R_OEU;jV2
+I_C@]KUjkTBZfR=f0S:S7A3
+R2
+R0
+w1763577541
+8e:/MultimodeFFT/tb/integration_tests/tb_fft_radix2_top.v
+Fe:/MultimodeFFT/tb/integration_tests/tb_fft_radix2_top.v
+L0 3
+R3
+r1
+!s85 0
+31
+R8
+!s107 e:/MultimodeFFT/tb/integration_tests/tb_fft_radix2_top.v|
+!s90 -reportprogress|300|-work|work|e:/MultimodeFFT/tb/integration_tests/tb_fft_radix2_top.v|
+!i113 1
+R5
+R6
+vtb_fft_radix4_top
+R7
+!i10b 1
+!s100 fgKJRe1>a[``A4K2WciT81
+I`89_W]jB6G_W^BfGT3Jnd1
+R2
+R0
+R10
+8e:/MultimodeFFT/tb/integration_tests/tb_fft_radix4_top.v
+Fe:/MultimodeFFT/tb/integration_tests/tb_fft_radix4_top.v
+L0 3
+R3
+r1
+!s85 0
+31
+R8
+!s107 e:/MultimodeFFT/tb/integration_tests/tb_fft_radix4_top.v|
+!s90 -reportprogress|300|-work|work|e:/MultimodeFFT/tb/integration_tests/tb_fft_radix4_top.v|
+!i113 1
+R5
+R6
+vtwiddle_rom_radix2
+R7
+!i10b 1
+!s100 aJ@C9^QgLLGDF9BozEJF23
+I;Ja:Ga:YLhj4EYQY=SRJW1
+R2
+R0
+w1763575822
+8e:/MultimodeFFT/rtl/radix2/twiddle_rom_radix2.v
+Fe:/MultimodeFFT/rtl/radix2/twiddle_rom_radix2.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 e:/MultimodeFFT/rtl/radix2/twiddle_rom_radix2.v|
+!s90 -reportprogress|300|-work|work|e:/MultimodeFFT/rtl/radix2/twiddle_rom_radix2.v|
+!i113 1
+R5
+R6
+vtwiddle_rom_radix2_2
+R7
+!i10b 1
+!s100 5B>FoT>hWBFM?f4K[RJzN1
+IP9Yd7D93BjKK[JFnbB33m3
+R2
+R0
+w1763582883
+8e:/MultimodeFFT/rtl/radix2_2/twiddle_rom_radix2_2.v
+Fe:/MultimodeFFT/rtl/radix2_2/twiddle_rom_radix2_2.v
+L0 3
+R3
+r1
+!s85 0
+31
+R8
+!s107 e:/MultimodeFFT/rtl/radix2_2/twiddle_rom_radix2_2.v|
+!s90 -reportprogress|300|-work|work|e:/MultimodeFFT/rtl/radix2_2/twiddle_rom_radix2_2.v|
+!i113 1
+R5
+R6
+vtwiddle_rom_radix4
+R7
+!i10b 1
+!s100 UT_DJ7C?NiGFg5a4QX5[M2
+I3TCAHPgEElG0U60[[d8Wb3
+R2
+R0
+R10
+8e:/MultimodeFFT/rtl/radix4/twiddle_rom_radix4.v
+Fe:/MultimodeFFT/rtl/radix4/twiddle_rom_radix4.v
+L0 3
+R3
+r1
+!s85 0
+31
+R8
+!s107 e:/MultimodeFFT/rtl/radix4/twiddle_rom_radix4.v|
+!s90 -reportprogress|300|-work|work|e:/MultimodeFFT/rtl/radix4/twiddle_rom_radix4.v|
+!i113 1
+R5
+R6
